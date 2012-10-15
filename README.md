@@ -1,0 +1,4 @@
+magnolia-rte-test
+=================
+
+test
